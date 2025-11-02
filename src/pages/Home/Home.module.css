@@ -1,0 +1,38 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  gap: 20px;
+  background: #fafafa;
+}
+
+.heading {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.linksContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.exampleLink {
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
+
+.exampleLink:hover {
+  transform: scale(1.03);
+  background: #ffe5e5;
+  border-color: #ffbfbf;
+}

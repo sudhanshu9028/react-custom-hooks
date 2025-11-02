@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btnClass {
+  display: grid;
+  grid-gap: 10px;
+  /* width: 300px; */
+  grid-template-columns: repeat(2, 130px);
+}
+.btnClass button:hover {
+  transform: scale(1.05);
+  background: #ffe5e5;
+}
+.btn {
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+}
+.notifications {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 32px;
+  margin-top: 30px;
+  overflow: hidden;
+}
+.noti {
+  font-size: 24px;
+  padding: 11px;
+  text-align: center;
+  margin-bottom: 15px;
+  width: 300px;
+  /* animation: slideIn 0.3s ease forwards; */
+}
+
+.slideIn {
+  animation: slideIn 0.3s ease forwards;
+}
+
+.fadeOut {
+  animation: fadeOut 0.3s ease forwards;
+}
+
+.backLink {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 500;
+  padding: 17px;
+  display: block;
+}
+
+.backLink:hover {
+  text-decoration: underline;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[72],{72:(s,c,e)=>{e.d(c,{default:()=>t});e(43);const t=e.p+"static/media/circle-minus.8e2ea86314b20999582a6720cbf98509.svg"}}]);
+//# sourceMappingURL=72.5d14a5fc.chunk.js.map

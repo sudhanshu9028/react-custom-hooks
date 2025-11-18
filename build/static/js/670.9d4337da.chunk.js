@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[670],{670:(s,e,c)=>{s.exports=c.p+"static/media/fb-messenger.fdcacb5161c007e1aa4d.svg"}}]);

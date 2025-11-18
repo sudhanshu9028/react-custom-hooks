@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[28],{28:(s,o,a)=>{s.exports=a.p+"static/media/google-play.bb7d07a1d5a28d8b6a34.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[778],{778:(s,e,c)=>{s.exports=c.p+"static/media/chrome.bd943621d659666c9e7a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[21],{21:(s,e,a)=>{s.exports=a.p+"static/media/telegram.7b32e0699fa280a656aa.svg"}}]);

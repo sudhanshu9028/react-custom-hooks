@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[936],{936:(s,a,t)=>{s.exports=t.p+"static/media/instagram.a0a9a83448ddb5827d70.svg"}}]);

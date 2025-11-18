@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[360],{360:(s,c,o)=>{s.exports=o.p+"static/media/amazon.7cd2d61679c2f2026c89.svg"}}]);

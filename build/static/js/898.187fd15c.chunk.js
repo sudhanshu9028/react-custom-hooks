@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[898],{898:(s,e,o)=>{s.exports=o.p+"static/media/ms-powerpoint.101cef76f501b9fd0536.svg"}}]);

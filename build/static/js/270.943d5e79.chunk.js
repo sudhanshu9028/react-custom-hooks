@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[270],{270:(s,e,t)=>{s.exports=t.p+"static/media/whatsapp.f2883296e5f8c40374f4.svg"}}]);

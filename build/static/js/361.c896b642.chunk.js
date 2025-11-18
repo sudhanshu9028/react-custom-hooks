@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_hooks=self.webpackChunkcustom_hooks||[]).push([[361],{361:(s,e,o)=>{s.exports=o.p+"static/media/opera.ffced3a3d7d487e07810.svg"}}]);

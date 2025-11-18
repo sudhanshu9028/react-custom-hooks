@@ -2,6 +2,7 @@
   "name": "custom-hooks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sudhanshu9028.github.io/react-custom-hooks",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
